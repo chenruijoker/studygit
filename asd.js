@@ -1,3 +1,4 @@
 function(){
-	alert(123);111
+	alert(123);
+	console.log("李通有意思");
 }
