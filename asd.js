@@ -1,3 +1,6 @@
 function(){
-	alert(123);111222
+	alert(123);
+}
+function(){
+	alert("牛逼！");
 }
