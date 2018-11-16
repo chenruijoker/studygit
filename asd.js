@@ -2,5 +2,8 @@ function(){
 	alert(123);
 }
 function(){
-	alert("牛逼！");
+	alert("Windows牛逼！");
+}
+function(){
+	alert("Ubuntu")
 }
